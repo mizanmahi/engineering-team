@@ -1,8 +1,6 @@
 import React from 'react';
 
 export const Cart = ({ cartItems }) => {
-   console.log(cartItems);
-
    return (
       <div>
          <h2 className='text-secondary text-4xl font-semibold text-center my-6'>
@@ -40,7 +38,7 @@ export const Cart = ({ cartItems }) => {
                   Total Hiring Cost
                </span>
                <span className='bg-bg w-1/3 flex justify-center items-center text-secondary font-bold -mr-1 rounded-r-md'>
-                  {cartItems.reduce((acc, curr) => (acc += curr.hiringCost), 0)}
+                  ${cartItems.reduce((acc, curr) => (acc += curr.hiringCost), 0)}
                </span>
             </div>
          </div>

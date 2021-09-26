@@ -16,18 +16,16 @@ function App() {
          .then((data) => {
             setLoading(false);
             setEngineers(data);
-            console.log(data);
          });
    }, []);
 
    const hireHnadler = (id) => {
-
-      if(cartItems.some(engineer => engineer.id === id)){
+      if (cartItems.some((engineer) => engineer.id === id)) {
          return;
       }
 
-      const addedEngineer = engineers.find(engineer => engineer.id === id);
-      setCartItems((prev) => [...prev, addedEngineer])
+      const addedEngineer = engineers.find((engineer) => engineer.id === id);
+      setCartItems((prev) => [...prev, addedEngineer]);
    };
 
    return (
@@ -40,7 +38,7 @@ function App() {
                ) : (
                   <Engineers engineers={engineers} hireHnadler={hireHnadler} />
                )}
-               <Cart cartItems={cartItems}/>
+               <Cart cartItems={cartItems} />
             </div>
          </main>
       </div>

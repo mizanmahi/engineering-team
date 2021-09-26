@@ -27,7 +27,7 @@
       "country": "Bangladesh",
       "designation": "Full Stack Engineer",
       "imgUrl": "https://i.ibb.co/Tkm8z07/240597403-386580696313226-3153737678813393966-n.jpg",
-      "expertise": ["js"]
+      "expertise": ["javascript", "wordpress", "sql"]
    },
    {
       "id": 4,
@@ -51,12 +51,72 @@
    },
    {
       "id": 6,
-      "name": "Dan Abramov",
+      "name": "Gabriel Courte",
       "age": 26,
       "hiringCost": 25000,
       "country": "London",
-      "designation": "React Developer",
-      "imgUrl": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/medium/oapgW_Fp_400x400.jpg",
-      "expertise": ["js"]
+      "designation": "React Nativ Developer",
+      "imgUrl": "https://uploads.toptal.io/user/photo/786502/large_76791ee7295ca1a783c37e7ee64d4773.jpg",
+      "expertise": ["react", "express", "nodejs"]
+   },
+   {
+      "id": 7,
+      "name": "Congwen Ma",
+      "age": 26,
+      "hiringCost": 19000,
+      "country": "Argentina",
+      "designation": ".net developer",
+      "imgUrl": "https://uploads.toptal.io/user/photo/640819/large_57425b824fe40b6c11e8ea06b84cb636.jpg",
+      "expertise": ["react", ".net", "nodejs"]
+   },
+   {
+      "id": 8,
+      "name": "David Leong",
+      "age": 29,
+      "hiringCost": 36000,
+      "country": "London",
+      "designation": "Django developer",
+      "imgUrl": "https://uploads.toptal.io/user/photo/633430/large_5491ab26aecb2bd5bbce8fcc41e2142e.jpg",
+      "expertise": ["python", "django", "sql"]
+   },
+   {
+      "id": 9,
+      "name": "Davor Badrov",
+      "age": 26,
+      "hiringCost": 25000,
+      "country": "India",
+      "designation": "Ruby Developer",
+      "imgUrl": "https://uploads.toptal.io/user/photo/662015/large_6f92d71472e19e3c0f783b46f7ab6093.jpg",
+      "expertise": ["Ruby", "rust", "nodejs"]
+   },
+   {
+      "id": 10,
+      "name": "Abdelhamid Attaby",
+      "age": 31,
+      "hiringCost": 16000,
+      "country": "Egypt",
+      "designation": "C# Engineer",
+      "imgUrl": "https://uploads.toptal.io/user/photo/1553867/large_cdcea00fe764c42f9007de4a47964670.jpg",
+      "expertise": ["c#", "c++", "Java"]
+   },
+   {
+      "id": 11,
+      "name": "Sebastian Kalinowski",
+      "age": 26,
+      "hiringCost": 25000,
+      "country": "Italy",
+      "designation": "Web Application Developer",
+      "imgUrl": "https://uploads.toptal.io/user/photo/1354685/large_a4c0366617de685b11bded98d2523e9d.jpg",
+      "expertise": [".net", "t-sql", "typescript"]
+   },
+   {
+      "id": 12,
+      "name": "Sergii Petryk",
+      "age": 26,
+      "hiringCost": 25000,
+      "country": "India",
+      "designation": "Ruby Developer",
+      "imgUrl": "https://uploads.toptal.io/user/photo/706091/large_f23135bf94f2f317b59cf709a871414b.jpg",
+      "expertise": ["html", "css", "javascript"]
    }
 ]
