@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Live Site Link: [Engineering Team](url).
+Live Site Link: [Engineering Team](https://choosing-engineers.netlify.app/).
 
 ### Technologies I used in this project:
 
