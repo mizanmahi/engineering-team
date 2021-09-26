@@ -3,54 +3,60 @@
       "id": 1,
       "name": "Dan Abramov",
       "age": 26,
-      "cost": 25000,
+      "hiringCost": 25000,
       "country": "London",
       "designation": "React Developer",
-      "imgUrl": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/medium/oapgW_Fp_400x400.jpg"
+      "imgUrl": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/medium/oapgW_Fp_400x400.jpg",
+      "expertise": ["Javascript", "react", "redux"]
    },
    {
-      "id": 1,
+      "id": 2,
       "name": "Mizan Mahi",
       "age": 25,
-      "cost": 15000,
+      "hiringCost": 15000,
       "country": "Bangladesh",
       "designation": "Backend hacker",
-      "imgUrl": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/medium/oapgW_Fp_400x400.jpg"
+      "imgUrl": "https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-1/c0.0.197.197a/p200x200/136052068_2885446408379491_7997141675982629727_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_ohc=LLrtvQziz2kAX_YjAve&tn=8bKuHM1tJHOD5koD&_nc_ht=scontent.fdac22-1.fna&oh=9d0f5b96aecdbef4022858f73e359dd8&oe=6174AF06",
+      "expertise": ["Javascript", "nodejs", "react"]
    },
    {
-      "id": 1,
+      "id": 3,
       "name": "Kanij Tasrin",
       "age": 21,
-      "cost": 18000,
+      "hiringCost": 18000,
       "country": "Bangladesh",
       "designation": "Full Stack Engineer",
-      "imgUrl": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/medium/oapgW_Fp_400x400.jpg"
+      "imgUrl": "https://i.ibb.co/Tkm8z07/240597403-386580696313226-3153737678813393966-n.jpg",
+      "expertise": ["js"]
    },
    {
-      "id": 1,
-      "name": "Dan Abramov",
-      "age": 26,
-      "cost": 25000,
-      "country": "London",
+      "id": 4,
+      "name": "Phil Greenberg",
+      "age": 28,
+      "hiringCost": 20000,
+      "country": "United State",
       "designation": "React Developer",
-      "imgUrl": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/medium/oapgW_Fp_400x400.jpg"
+      "imgUrl": "https://uploads.toptal.io/user/photo/509188/large_0c96b9ff29e7466ec162f1b857bf080b.jpg",
+      "expertise": ["javascript", ".net", "SQL"]
    },
    {
-      "id": 1,
-      "name": "Dan Abramov",
-      "age": 26,
-      "cost": 25000,
-      "country": "London",
-      "designation": "React Developer",
-      "imgUrl": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/medium/oapgW_Fp_400x400.jpg"
+      "id": 5,
+      "name": "Juraj Husár",
+      "age": 29,
+      "hiringCost": 18000,
+      "country": "Pakistan",
+      "designation": "Angular Developer",
+      "imgUrl": "https://uploads.toptal.io/user/photo/534243/large_aea8aaf0342d55dcb9f0243e9878dd93.jpg",
+      "expertise": ["Angular", "react", "Mongodb"]
    },
    {
-      "id": 1,
+      "id": 6,
       "name": "Dan Abramov",
       "age": 26,
-      "cost": 25000,
+      "hiringCost": 25000,
       "country": "London",
       "designation": "React Developer",
-      "imgUrl": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/medium/oapgW_Fp_400x400.jpg"
+      "imgUrl": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/medium/oapgW_Fp_400x400.jpg",
+      "expertise": ["js"]
    }
 ]
