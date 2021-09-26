@@ -20,6 +20,7 @@ function App() {
    }, []);
 
    const hireHnadler = (id) => {
+      // checking if the engineer already added
       if (cartItems.some((engineer) => engineer.id === id)) {
          return;
       }
